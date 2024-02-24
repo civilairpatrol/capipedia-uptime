@@ -12,7 +12,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/civilairpatrol/capipedia-uptime/master/assets/cap-logo.png
+  logoUrl: https://raw.githubusercontent.com/civilairpatrol/capipedia-uptime/master/assets/cap-logo.svg
   name: CAPipedia Status Page
   introTitle: "**CAPipedia Status Page** is the open-source uptime monitor and status page, powered entirely by GitHub and upptime."
   navbar:
