@@ -4,7 +4,7 @@
     "url": "https://capipedia.cap.gov",
     "icon": "https://icons.duckduckgo.com/ip3/capipedia.cap.gov.ico",
     "slug": "ca-pipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
     "uptimeDay": "71.36%",
     "uptimeWeek": "92.52%",
@@ -12,7 +12,7 @@
     "uptimeYear": "99.27%",
     "time": 5352,
     "timeDay": 10741,
-    "timeWeek": 8821,
+    "timeWeek": 8879,
     "timeMonth": 10141,
     "timeYear": 6112,
     "dailyMinutesDown": {
