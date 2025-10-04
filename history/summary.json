@@ -6,17 +6,17 @@
     "slug": "ca-pipedia",
     "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "84.41%",
-    "uptimeWeek": "68.07%",
-    "uptimeMonth": "87.48%",
-    "uptimeYear": "98.96%",
-    "time": 6831,
-    "timeDay": 14236,
-    "timeWeek": 13544,
-    "timeMonth": 11894,
-    "timeYear": 7808,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "69.90%",
+    "uptimeMonth": "87.39%",
+    "uptimeYear": "98.95%",
+    "time": 6817,
+    "timeDay": 1564,
+    "timeWeek": 12679,
+    "timeMonth": 11851,
+    "timeYear": 7796,
     "dailyMinutesDown": {
-      "2025-10-03": 36,
+      "2025-10-03": 24,
       "2025-10-02": 733,
       "2025-10-01": 916,
       "2025-09-30": 888,
@@ -27,7 +27,7 @@
       "2025-09-25": 960,
       "2025-09-24": 200,
       "2025-09-21": 215,
-      "2025-09-20": 150
+      "2025-09-20": 202
     }
   }
 ]
