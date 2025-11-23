@@ -4,19 +4,19 @@
     "url": "https://capipedia.cap.gov",
     "icon": "https://icons.duckduckgo.com/ip3/capipedia.cap.gov.ico",
     "slug": "ca-pipedia",
-    "status": "down",
+    "status": "up",
     "uptime": "98.58%",
-    "uptimeDay": "50.23%",
-    "uptimeWeek": "77.47%",
+    "uptimeDay": "49.75%",
+    "uptimeWeek": "77.40%",
     "uptimeMonth": "89.76%",
     "uptimeYear": "97.52%",
-    "time": 8621,
-    "timeDay": 14464,
-    "timeWeek": 14322,
-    "timeMonth": 10858,
-    "timeYear": 9404,
+    "time": 8642,
+    "timeDay": 14713,
+    "timeWeek": 14402,
+    "timeMonth": 10929,
+    "timeYear": 9420,
     "dailyMinutesDown": {
-      "2025-11-23": 674,
+      "2025-11-23": 681,
       "2025-11-22": 366,
       "2025-11-21": 69,
       "2025-11-20": 23,
@@ -40,7 +40,7 @@
       "2025-10-17": 391,
       "2025-10-16": 464,
       "2025-10-14": 60,
-      "2025-10-13": 198
+      "2025-10-13": 177
     }
   }
 ]
