@@ -1,7 +1,7 @@
 url: https://capipedia.cap.gov
-status: down
-code: 403
-responseTime: 4190
-lastUpdated: 2025-12-25T01:49:59.302Z
+status: up
+code: 200
+responseTime: 3256
+lastUpdated: 2025-12-25T02:31:55.464Z
 startTime: 2024-02-24T23:37:47.646Z
 generator: Upptime <https://github.com/upptime/upptime>
