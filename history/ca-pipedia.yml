@@ -1,7 +1,7 @@
 url: https://capipedia.cap.gov/wiki/Main_Page
-status: up
-code: 200
-responseTime: 1699
-lastUpdated: 2026-07-22T23:18:08.998Z
+status: down
+code: 504
+responseTime: 10065
+lastUpdated: 2026-07-23T02:32:36.923Z
 startTime: 2024-02-24T23:37:47.646Z
 generator: Upptime <https://github.com/upptime/upptime>
