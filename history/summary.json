@@ -6,17 +6,17 @@
     "slug": "ca-pipedia",
     "status": "up",
     "uptime": "99.21%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "97.87%",
-    "time": 6169,
-    "timeDay": 26247,
-    "timeWeek": 16418,
-    "timeMonth": 9545,
-    "timeYear": 6070,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "97.86%",
+    "time": 6167,
+    "timeDay": 26067,
+    "timeWeek": 16172,
+    "timeMonth": 9284,
+    "timeYear": 6031,
     "dailyMinutesDown": {
-      "2026-01-02": 417,
+      "2026-01-02": 439,
       "2026-01-03": 597,
       "2026-01-04": 750,
       "2026-01-05": 448,
@@ -53,8 +53,7 @@
       "2026-07-23": 145,
       "2026-08-12": 129,
       "2026-09-18": 31,
-      "2026-10-31": 22,
-      "2026-11-06": 4
+      "2026-10-31": 22
     }
   }
 ]
